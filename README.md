@@ -30,6 +30,25 @@ Click below to experience live dashboard
 
 # Methodology
 
+**Step 1:** To get started, I used MySQL Workbench's SQL queries to first explore the data. After a quick review of the data, these are my preliminary inferences:
+1.  The database comprises 13 tables sourced from MySQL and external Excel files, categorized into fact tables with quantitative sales-related data and dimension tables providing customer, product, and market details.
+
+2.  Dimension tables include information on 27 markets, 73 products across 14 categories, and 74 unique customers globally. Atliq's observation period for sales transactions and forecasts spans from September 2017 to August 2022, aligned with its fiscal year running from September to August.
+
+3.  The transaction data is in INR and encompasses various metrics such as sales transaction details, forecast information, gross price, manufacturing cost, freight cost, and pre & post invoice deductions. The product lineup is organized into three major divisions and six segments, reflecting a comprehensive overview of Atliq's business landscape.
+
+**Step 2:** I initiated the **ETL(Extract, Transform, Load)** procedure after obtaining a basic grasp of the data. My discoveries:
+1. The dataset analysis revealed that all columns, except for the "region" column in the dim_market dataset, were free of errors and empty values.
+
+2. In the absence of a date dimension table, a new one named dim_date was created in Power Query. This table was populated with calculated columns for fiscal year computation, utilizing dates from the fact_forecast_monthly and fact_sales_monthly datasets as references
+
+**Step 3:** Once the first transformations were finished, I loaded the cleaned data into the main report. I began the next step of data modeling, which lays the groundwork for a strong analytical framework.
+
+
+![image](https://github.com/bala942/BI-360-project/assets/127521506/2bfb7691-8f26-4d9c-aee2-138f8507040b)
+
+                                                         Snow flake Schema
+
 
 I hope this project helps you understand the business insights. If you have any questions or suggestions, please don't hesitate to reach out.  
 - [LinkedIn](https://www.linkedin.com/in/balacdatascientist)  
