@@ -71,7 +71,22 @@ Click below to experience live dashboard
                                                           Home view information on 
 ![Screenshot 2024-03-06 162028](https://github.com/bala942/BI-360-project/assets/127521506/eae339f6-a385-4b4e-9bc3-7f33449baf8f)
                                                      
-                                                        
+                                                              AtliQ Map view
+![Screenshot 2024-03-06 161553](https://github.com/bala942/BI-360-project/assets/127521506/e2d0ba68-f6a2-4f6e-acac-ba50d25d35c3)
+
+                                                        finance view in switch panel
+![Screenshot 2024-03-06 161605](https://github.com/bala942/BI-360-project/assets/127521506/8028b1b3-64a0-441d-9c77-aa4caf8d74f0)
+
+                                                        finance view in filter panel
+![Screenshot 2024-03-06 162112](https://github.com/bala942/BI-360-project/assets/127521506/0ffcc5d6-ca7d-4f36-a6cd-375b1941bfe1)
+                                                    
+                                                       finance view in full view panel 
+![Screenshot 2024-03-06 162138](https://github.com/bala942/BI-360-project/assets/127521506/d59c92b7-8a73-4c3f-814d-a08f9c25c1a6)
+                                                       
+                                                                Sales view
+![Screenshot 2024-03-06 161703](https://github.com/bala942/BI-360-project/assets/127521506/2f623eee-e4e9-422a-aeeb-10f504027407)
+                                                               
+                                                              
                                                           
 
 
