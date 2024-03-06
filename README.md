@@ -49,6 +49,20 @@ Click below to experience live dashboard
 
                                                          Snow flake Schema
 
+**Step 4:** The data validation phase followed, during which the project owner provided me with benchmark numbers. After comparing my data to these standards, I noticed something:
+
+1. Identified a discrepancy of 376K in the total forecast quantity during the analysis.
+2. Collaborated swiftly with the data engineering team to pinpoint and rectify the underlying data quality issue.
+
+
+**Step 5:** The last phase involved optimizing the dashboard's performance. Using DAX Studio, I refined the dashboard, resulting in an impressive 30% reduction in file size and considerably faster data loading. This enhancement ensures a smooth user experience, improving the efficiency of exploring and visualizing data.
+
+
+**Step 6:** I started the dashboard design process after making sure my data was ready and clean. This required creating the remaining calculated columns and measures, making use of DAX's (Data Analysis Expressions) capabilities, and creating the graphics required to accomplish a smooth combination of informative data and eye-catching design.
+
+
+
+
 
 I hope this project helps you understand the business insights. If you have any questions or suggestions, please don't hesitate to reach out.  
 - [LinkedIn](https://www.linkedin.com/in/balacdatascientist)  
