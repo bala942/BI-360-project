@@ -47,7 +47,7 @@ Click below to experience live dashboard
 
 ![image](https://github.com/bala942/BI-360-project/assets/127521506/2bfb7691-8f26-4d9c-aee2-138f8507040b)
 
-                                                     Snow flake Schema
+                                                   Snow flake Schema
 
 **Step 4:** The data validation phase followed, during which the project owner provided me with benchmark numbers. After comparing my data to these standards, I noticed something:
 
@@ -62,40 +62,40 @@ Click below to experience live dashboard
 
 # Different View's
 
-                                                         Home View
+                                                       Home View
 ![Screenshot 2024-03-06 161534](https://github.com/bala942/BI-360-project/assets/127521506/a64036b9-8d07-4c08-8ab0-c2b31243b092)
 
-                                                     Home view support on
+                                                   Home view support on
 ![Screenshot 2024-03-06 162047](https://github.com/bala942/BI-360-project/assets/127521506/caa135d6-89f7-43ab-acdc-0425b019cde8)
 
-                                                   Home view information on 
+                                                 Home view information on 
 ![Screenshot 2024-03-06 162028](https://github.com/bala942/BI-360-project/assets/127521506/eae339f6-a385-4b4e-9bc3-7f33449baf8f)
                                                      
-                                                       AtliQ Map view
+                                                     AtliQ Map view
 ![Screenshot 2024-03-06 161553](https://github.com/bala942/BI-360-project/assets/127521506/e2d0ba68-f6a2-4f6e-acac-ba50d25d35c3)
 
-                                                 finance view in switch panel
+                                               finance view in switch panel
 ![Screenshot 2024-03-06 161605](https://github.com/bala942/BI-360-project/assets/127521506/8028b1b3-64a0-441d-9c77-aa4caf8d74f0)
 
-                                                 finance view in filter panel
+                                               finance view in filter panel
 ![Screenshot 2024-03-06 162112](https://github.com/bala942/BI-360-project/assets/127521506/0ffcc5d6-ca7d-4f36-a6cd-375b1941bfe1)
                                                     
-                                                finance view in full view panel 
+                                              finance view in full view panel 
 ![Screenshot 2024-03-06 162138](https://github.com/bala942/BI-360-project/assets/127521506/d59c92b7-8a73-4c3f-814d-a08f9c25c1a6)
                                                        
-                                                         Sales view
+                                                       Sales view
 ![Screenshot 2024-03-06 161703](https://github.com/bala942/BI-360-project/assets/127521506/2f623eee-e4e9-422a-aeeb-10f504027407)
 
-                                                 Sales view tool tip on visual
+                                               Sales view tool tip on visual
 ![Screenshot 2024-03-06 153934](https://github.com/bala942/BI-360-project/assets/127521506/ef1d35d9-3aae-491a-855f-8cd513a8e639)
 
-                                                       Marketing view
+                                                     Marketing view
 ![Screenshot 2024-03-06 161726](https://github.com/bala942/BI-360-project/assets/127521506/b6475322-0135-45fa-ac7c-e0a3a946f08e)
                                                               
-                                                      Supply Chain view  
+                                                    Supply Chain view  
 ![Screenshot 2024-03-06 161750](https://github.com/bala942/BI-360-project/assets/127521506/3cfdcf7b-8f58-47e8-86be-41e7d5342051)
 
-                                                        Executive view
+                                                      Executive view
 ![Screenshot 2024-03-06 161803](https://github.com/bala942/BI-360-project/assets/127521506/4c4466d4-8a5f-49c0-9c6c-ed521f1c43b9)
                                                               
                                                               
