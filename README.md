@@ -15,13 +15,13 @@ The data used by AtliQ Hardware consists of a variety of information related to 
  Following tasks need to be peformed to design the required dashboard : 
 1. Finance View : Metrics, P & L table structure, Last year calculations, Quarters & YTD/YTG slicer, Dynamic switch on P & L table between targets and last year, Performance chart, top product/market/region visual.
   
-2. Sales View : Performance matrix visual, Toggle button to switch between visuals, Customer & Product performance chart, Unit Economics visuals.
+2. Sales View :  Performance matrix visual, Toggle button to switch between visuals, Customer & Product performance chart, Unit Economics visuals.
    
-3. Marketing View : Performance matrix visual, Tooltip to represent trends, Product performance chart, Region/market/product performance chart.
+3. Marketing View :  Performance matrix visual, Tooltip to represent trends, Product performance chart, Region/market/product performance chart.
    
-4. Supply Chain View : Key metrics by product and customer visual, accuracy/net error trend chart.
+4. Supply Chain View :  Key metrics by product and customer visual, accuracy/net error trend chart.
    
-5. Executive View : KPI's such as net sales, gross margin %, net profit % and forecast accuracy %, Market share visual, Revenue by division & channel visual.
+5. Executive View :  KPI's such as net sales, gross margin %, net profit % and forecast accuracy %, Market share visual, Revenue by division & channel visual.
 
 # Production Grade BI 360 Dashbord
 click below to experience live dashboard
