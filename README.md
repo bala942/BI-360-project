@@ -12,12 +12,12 @@ AtliQ Hardware (a hypothetical company) faces challenges in effectively using an
 The data used by AtliQ Hardware consists of a variety of information related to their operations, sales, customer demographics and market trends. It includes data from different countries where the company operates, allowing for a comprehensive understading of their business performance and market dynamics. The dataset is diverse and extensive which covers wide variety of segments such as product sales, regional market trends, customer preferences and financial information.
 
 # Business requirement
-Use this dataset for data cleaning, exploration and visualization to uncover the business insights. Following tasks need to be peformed while designing the dashboard : 
-1. Prepare Finance View : Metrics, P & L table structure, Last year calculations, Quarters & YTD/YTG slicer, Dynamic switch on P & L table between targets and last year, Performance chart, top product/market/region visual.
-2. Prepare Sales View : Performance matrix visual, Toggle button to switch between visuals, Customer & Product performance chart, Unit Economics visuals. 
-3. Prepare Marketing View : Performance matrix visual, Tooltip to represent trends, Product performance chart, Region/market/product performance chart. 
-4. Prepare Supply Chain View : Key metrics by product and customer visual, accuracy/net error trend chart.
-5. Prepare Executive View : KPI's such as net sales, gross margin %, net profit % and forecast accuracy %, Market share visual, Revenue by division & channel visual.
+ Following tasks need to be peformed to design the required dashboard : 
+1. Finance View : Metrics, P & L table structure, Last year calculations, Quarters & YTD/YTG slicer, Dynamic switch on P & L table between targets and last year, Performance chart, top product/market/region visual.
+2. Sales View : Performance matrix visual, Toggle button to switch between visuals, Customer & Product performance chart, Unit Economics visuals. 
+3. Marketing View : Performance matrix visual, Tooltip to represent trends, Product performance chart, Region/market/product performance chart. 
+4. Supply Chain View : Key metrics by product and customer visual, accuracy/net error trend chart.
+5. Executive View : KPI's such as net sales, gross margin %, net profit % and forecast accuracy %, Market share visual, Revenue by division & channel visual.
 
 # Production Grade BI 360 Dashbord
 click below to experience live dashboard
@@ -26,4 +26,4 @@ click below to experience live dashboard
 
 
 I hope this project helps you understand the business insights. If you have any questions or suggestions, please don't hesitate to reach out.  
-- [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
+- [LinkedIn](www.linkedin.com/in/balacdatascientist)  
