@@ -24,7 +24,7 @@ The data used by AtliQ Hardware consists of a variety of information related to 
 5. Executive View :  KPI's such as net sales, gross margin %, net profit % and forecast accuracy %, Market share visual, Revenue by division & channel visual.
 
 # Production Grade BI 360 Dashbord
-click below to experience live dashboard
+Click below to experience live dashboard
 - [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDEwMmExYmItN2VlNy00ZDJlLWI0ZGUtNjcyMjY1OTZmNmY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 ).
 
 
