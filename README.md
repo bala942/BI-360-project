@@ -21,7 +21,7 @@ Use this dataset for data cleaning, exploration and visualization to uncover the
 
 # Production Grade BI 360 Dashbord
 click below to experience live dashboard
-- [Power BI Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-2](https://app.powerbi.com/view?r=eyJrIjoiZDEwMmExYmItN2VlNy00ZDJlLWI0ZGUtNjcyMjY1OTZmNmY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 ).
+- [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDEwMmExYmItN2VlNy00ZDJlLWI0ZGUtNjcyMjY1OTZmNmY5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 ).
 
 
 
