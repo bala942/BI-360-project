@@ -26,4 +26,4 @@ click below to experience live dashboard
 
 
 I hope this project helps you understand the business insights. If you have any questions or suggestions, please don't hesitate to reach out.  
-- [LinkedIn](www.linkedin.com/in/balacdatascientist)  
+- [LinkedIn](https://www.linkedin.com/in/balacdatascientist)  
