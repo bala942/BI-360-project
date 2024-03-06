@@ -85,7 +85,19 @@ Click below to experience live dashboard
                                                        
                                                                 Sales view
 ![Screenshot 2024-03-06 161703](https://github.com/bala942/BI-360-project/assets/127521506/2f623eee-e4e9-422a-aeeb-10f504027407)
-                                                               
+
+                                                        Sales view tool tip on visual
+![Screenshot 2024-03-06 153934](https://github.com/bala942/BI-360-project/assets/127521506/ef1d35d9-3aae-491a-855f-8cd513a8e639)
+
+                                                              Marketing view
+![Screenshot 2024-03-06 161726](https://github.com/bala942/BI-360-project/assets/127521506/b6475322-0135-45fa-ac7c-e0a3a946f08e)
+                                                              
+                                                             Supply Chain view  
+![Screenshot 2024-03-06 161750](https://github.com/bala942/BI-360-project/assets/127521506/3cfdcf7b-8f58-47e8-86be-41e7d5342051)
+
+                                                              Executive view
+![Screenshot 2024-03-06 161803](https://github.com/bala942/BI-360-project/assets/127521506/4c4466d4-8a5f-49c0-9c6c-ed521f1c43b9)
+                                                              
                                                               
                                                           
 
