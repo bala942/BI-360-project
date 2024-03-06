@@ -60,7 +60,19 @@ Click below to experience live dashboard
 
 **Step 6:** I started the dashboard design process after making sure my data was ready and clean. This required creating the remaining calculated columns and measures, making use of DAX's (Data Analysis Expressions) capabilities, and creating the graphics required to accomplish a smooth combination of informative data and eye-catching design.
 
+# Different View's
 
+                                                                Home View
+![Screenshot 2024-03-06 161534](https://github.com/bala942/BI-360-project/assets/127521506/a64036b9-8d07-4c08-8ab0-c2b31243b092)
+
+                                                            Home view support on
+![Screenshot 2024-03-06 162047](https://github.com/bala942/BI-360-project/assets/127521506/caa135d6-89f7-43ab-acdc-0425b019cde8)
+
+                                                          Home view information on 
+![Screenshot 2024-03-06 162028](https://github.com/bala942/BI-360-project/assets/127521506/eae339f6-a385-4b4e-9bc3-7f33449baf8f)
+                                                     
+                                                        
+                                                          
 
 
 
